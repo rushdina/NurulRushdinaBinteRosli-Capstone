@@ -136,7 +136,7 @@ export default function StockForm() {
           </div>
 
           <div className="stock-label-input">
-            <label htmlFor="purchasePrice">Purchase Price:</label>
+            <label htmlFor="purchasePrice">Average Purchase Price:</label>
             <input
               type="number"
               name="purchasePrice"
